@@ -24,6 +24,10 @@
   color: white;
 }
 
+#zmmtg-root {
+  display: none;
+}
+
 .App-link {
   color: #61dafb;
 }
